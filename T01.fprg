@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="LENOVO"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:07 PM"/>
+        <attribute name="created" value="TEVOT1ZPO0xBUFRPUC1ORUkyU0FNNzsyMDI0LTA5LTA0OzA4OjA4OjM4IFBNOzI4MTg="/>
+        <attribute name="edited" value="TEVOT1ZPO0xBUFRPUC1ORUkyU0FNNzsyMDI0LTA5LTA0OzA5OjEwOjA3IFBNOzE7MjkxNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <input variable="nama"/>
+            <output expression="&quot;saya tidak punya nama&quot;" newline="True"/>
+            <declare name="kenapa" type="String" array="False" size=""/>
+            <input variable="kenapa"/>
+            <output expression="&quot;karena belum dibuat&quot;" newline="True"/>
+            <declare name="kokbisasih" type="String" array="False" size=""/>
+            <input variable="kokbisasih"/>
+            <output expression="&quot;karena saya primadona&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
